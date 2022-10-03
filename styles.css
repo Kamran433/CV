@@ -1,0 +1,33 @@
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: silver;
+}
+
+h3 {
+  font-style: italic;
+}
+
+td {
+  font-style: oblique;
+}
+img{
+  color: blue;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+}
+h1:hover{
+  color: red;
+}
+a{
+  font-weight: bolder;
+}
+/*body{
+  background-color: blue;
+}*/
+.goda{
+  text-align: center;
+}
